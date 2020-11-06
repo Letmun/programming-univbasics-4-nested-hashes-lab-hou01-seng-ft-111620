@@ -100,7 +100,7 @@ def changing_alan
       },
       :alan_kay => {
         :known_for =>  "GUI",
-      :languages => ["LISP", "C"],
+      :languages => ["LISP", 
       },
       :dennis_ritchie => {
         :known_for => "Unix",
